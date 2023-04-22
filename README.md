@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2. npx tailwindcss init
 3. config tailwind.config.js
 4. add tailwind css in App.css
+5. npm i @reduxjs/toolkit
+6. npm i react-redux
